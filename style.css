@@ -1,0 +1,26 @@
+.container{
+	margin: 60px;
+	border: 1px solid;
+}
+
+img{
+	width: 10%;
+}
+
+.center{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h1{
+	text-align: center;
+}
+
+.inside{
+	padding: 60px;
+}
+
+.flex {
+	display: inline-block;
+}
